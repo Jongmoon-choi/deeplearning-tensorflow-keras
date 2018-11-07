@@ -13,6 +13,6 @@
 
 [r1.8](https://github.com/yusugomori/deeplearning-tensorflow-keras/tree/r1.8) (r1.8, r1.9, r1.10)
 
-#Github for deep learning study
+# Github for deep learning study
 
 
